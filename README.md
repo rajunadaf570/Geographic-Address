@@ -2,7 +2,7 @@
     Geographic-Address use Place specifications to define geographic entities that where you can located on map.
     
 ## How to use: 
-### API 1.
+#### API 1.
  [ http://127.0.0.1:8000/api/v1/address/fileupload/ ]\
  Call the above api using post request.
  #### Input:
@@ -23,6 +23,5 @@
  [ http://127.0.0.1:8000/api/v1/address/downloadfile/ ]\
  Get request.\
  Download csv file which contain address filed with latitude and longitude fields.
- 
- 
+ ### Note:
  
