@@ -8,7 +8,7 @@
  #### Input:
  key :  { API Key } locationiq api key.\
  file : { csv or excel file } with address field.\
- for example use above { address.xlsx } excel file for reference.
+ for example use above { address.xlsx } file for reference.
  #### response:
  detail : file uploaded successfully.
  ### API 2.
