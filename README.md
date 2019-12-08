@@ -24,4 +24,6 @@
  Get request.\
  Download csv file which contain address filed with latitude and longitude fields.
  ### Note:
+ Install above requirements.txt file using\
+ pip install -r requirements.txt
  
