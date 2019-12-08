@@ -1,2 +1,3 @@
 # Geographic-Address
-upload file which contain address and it will return lat and long address in file format.
+    Geographic-Address use Place specifications to define geographic entities that where you can located on map.
+    
